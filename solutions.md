@@ -46,4 +46,4 @@ print(keyAsHex)
 | 1GcZjZnfQUCs9L9RoAFLdd8YET2WQWrDAz | 0.01 BTC | 18RwKzXtL5YGvFwa9BHrPRvqXLkdYWsGfp | 0.00987 BTC |
 | 1KGhtebk4Nr2zZSn2NaFepeNF6KyjxpPJZ | 0.02 BTC | BCaztysy2paguXjuC8c652vckNMks69ce | 0.01986549 BTC |
 
-It is fairly trivial to see that the amounts from the input transaction are a small amount larger than the matching amounts from the output transactions, minus a small transaction and possibly service fee.
+Explanation: It is fairly trivial to see that the amounts from the input transaction are a small amount larger than the matching amounts from the output transactions, minus a small transaction and possibly service fee.
