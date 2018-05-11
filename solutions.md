@@ -47,3 +47,8 @@ print(keyAsHex)
 | 1KGhtebk4Nr2zZSn2NaFepeNF6KyjxpPJZ | 0.02 BTC | BCaztysy2paguXjuC8c652vckNMks69ce | 0.01986549 BTC |
 
 Explanation: It is fairly trivial to see that the amounts from the input transaction are a small amount larger than the matching amounts from the output transactions, minus a small transaction and possibly service fee.
+
+## Evaluation
+* The questions were pretty appropriately difficult. 
+* I spent around 6 hours on this homework.
+* Good amount of coding. I would have liked to have been forced to learn some more solidity techniques through this homework, but it gave me a pretty good foundation. I'm glad there was an exercise where contracts interacted with each other.
