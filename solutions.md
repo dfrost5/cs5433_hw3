@@ -40,7 +40,7 @@ print(keyAsHex)
 ## Question 4
 
 | Input Address | Input Amount | Output Address | Output Amount |
-| ------------- | -----------* | -------------- | ------------* |
+| ------------- | -----------: | -------------- | ------------: |
 | 1MVXpgczazLvbtS8Nfp9v3Qpj4d8pUNXQM | 0.25 BTC | MTbp4bFftessrbTTpM5SC5Ap1iKaMHrM7 | 0.02441339 BTC |
 | 135g5Es7VXvbaAkwzguv7q7xaSSTifav5H | 0.05 BTC | MUZ1Qk36LqExdcSRDZCxNRP1pcz1b5mT | 0.04044 BTC |
 | 1GcZjZnfQUCs9L9RoAFLdd8YET2WQWrDAz | 0.01 BTC | 18RwKzXtL5YGvFwa9BHrPRvqXLkdYWsGfp | 0.00987 BTC |
