@@ -82,6 +82,6 @@ def get_key_from_challenge(challenge):
 # get_challenge_for("YOUR_NETID", "challenge") - this call won't work since some code is removed
 # but gives you some idea as to how the challeng was created
 
-challenge_text = open("challenges/YOUR_NETID").read().strip()
+challenge_text = open("challenges/dmf86").read().strip()
 sk = get_key_from_challenge(challenge_text)
 print(verify_key(sk, challenge_text)) # should print True
